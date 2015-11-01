@@ -178,7 +178,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libOmxEvrcDec.so:/system/vendor/lib/libOmxEvrcDec.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libOmxQcelp13Dec.so:/system/vendor/lib/libOmxQcelp13Dec.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libOmxWmaDec.so:/system/vendor/lib/libOmxWmaDec.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libOpenCL.so:/system/vendor/lib/libOpenCL.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libQBLAS-0.11.38.so:/system/vendor/lib/libQBLAS-0.11.38.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libQSEEComAPI.so:/system/vendor/lib/libQSEEComAPI.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libRSDriver_adreno.so:/system/vendor/lib/libRSDriver_adreno.so \
@@ -526,7 +525,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libOmxAacDec.so:/system/vendor/lib64/libOmxAacDec.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libOmxAmrwbplusDec.so:/system/vendor/lib64/libOmxAmrwbplusDec.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libOmxWmaDec.so:/system/vendor/lib64/libOmxWmaDec.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libOpenCL.so:/system/vendor/lib64/libOpenCL.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libQBLAS-0.11.38.so:/system/vendor/lib64/libQBLAS-0.11.38.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libQSEEComAPI.so:/system/vendor/lib64/libQSEEComAPI.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libRSDriver_adreno.so:/system/vendor/lib64/libRSDriver_adreno.so \
