@@ -175,7 +175,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libStDrvInt.so:/system/vendor/lib/libStDrvInt.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libSubSystemShutdown.so:/system/vendor/lib/libSubSystemShutdown.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libTimeService.so:/system/vendor/lib/libTimeService.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:/system/vendor/lib/libWVStreamControlAPI_L3.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libacdb-fts.so:/system/vendor/lib/libacdb-fts.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libacdbloader.so:/system/vendor/lib/libacdbloader.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libacdbmapper.so:/system/vendor/lib/libacdbmapper.so \
