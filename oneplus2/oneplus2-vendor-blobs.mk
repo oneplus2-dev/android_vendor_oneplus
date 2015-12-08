@@ -91,7 +91,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/venus.mbn:/system/etc/firmware/venus.mbn \
         vendor/oneplus/oneplus2/proprietary/etc/firmware/venus.mdt:/system/etc/firmware/venus.mdt \
         vendor/oneplus/oneplus2/proprietary/etc/permissions/com.google.widevine.software.drm.xml:/system/etc/permissions/com.google.widevine.software.drm.xml \
-        vendor/oneplus/oneplus2/proprietary/etc/permissions/com.qualcomm.location.xml:/system/etc/permissions/com.qualcomm.location.xml \
         vendor/oneplus/oneplus2/proprietary/etc/permissions/qcnvitems.xml:/system/etc/permissions/qcnvitems.xml \
         vendor/oneplus/oneplus2/proprietary/etc/permissions/qcrilhook.xml:/system/etc/permissions/qcrilhook.xml \
         vendor/oneplus/oneplus2/proprietary/etc/usb_drivers.iso:/system/etc/usb_drivers.iso \
