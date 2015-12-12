@@ -172,7 +172,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libSHIMDivxDrm.so:/system/vendor/lib/libSHIMDivxDrm.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libSSEPKCS11.so:/system/vendor/lib/libSSEPKCS11.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libSecureUILib.so:/system/vendor/lib/libSecureUILib.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib/libStDrvInt.so:/system/vendor/lib/libStDrvInt.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libSubSystemShutdown.so:/system/vendor/lib/libSubSystemShutdown.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libTimeService.so:/system/vendor/lib/libTimeService.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib/libacdb-fts.so:/system/vendor/lib/libacdb-fts.so \
@@ -496,7 +495,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libSHIMDivxDrm.so:/system/vendor/lib64/libSHIMDivxDrm.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libSSEPKCS11.so:/system/vendor/lib64/libSSEPKCS11.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libSecureUILib.so:/system/vendor/lib64/libSecureUILib.so \
-        vendor/oneplus/oneplus2/proprietary/vendor/lib64/libStDrvInt.so:/system/vendor/lib64/libStDrvInt.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libSubSystemShutdown.so:/system/vendor/lib64/libSubSystemShutdown.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libTimeService.so:/system/vendor/lib64/libTimeService.so \
         vendor/oneplus/oneplus2/proprietary/vendor/lib64/libacdb-fts.so:/system/vendor/lib64/libacdb-fts.so \
