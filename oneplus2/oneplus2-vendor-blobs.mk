@@ -43,7 +43,6 @@ PRODUCT_COPY_FILES += \
         vendor/oneplus/oneplus2/proprietary/bin/quipc_main:/system/bin/quipc_main \
         vendor/oneplus/oneplus2/proprietary/bin/radish:/system/bin/radish \
         vendor/oneplus/oneplus2/proprietary/bin/rfs_access:/system/bin/rfs_access \
-        vendor/oneplus/oneplus2/proprietary/bin/rild:/system/bin/rild \
         vendor/oneplus/oneplus2/proprietary/bin/rmt_storage:/system/bin/rmt_storage \
         vendor/oneplus/oneplus2/proprietary/bin/sensors.qcom:/system/bin/sensors.qcom \
         vendor/oneplus/oneplus2/proprietary/bin/thermal-engine:/system/bin/thermal-engine \
